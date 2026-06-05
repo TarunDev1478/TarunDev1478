@@ -1,4 +1,7 @@
-### Hi, I'm Tarun 👋
+<h1>
+  Tarun Kumar
+  <img src="https://api.iconify.design/twemoji/waving-hand.svg" width="32" alt="wave"/>
+</h1>
 
 CS undergrad at IIITDM Kurnool (2026). Currently building **AI-agent and integration systems at [Refold AI](https://refold.ai)** in Bangalore.
 
